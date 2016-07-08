@@ -1,5 +1,5 @@
 {
-  "name": "SilexFriends/Header",
+  "name": "silexfriends/header",
   "description": "A simple Authorization Header Reader Provider to Silex Rest APIs",
   "type": "library",
   "license": "MIT",
