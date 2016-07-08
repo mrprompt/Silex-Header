@@ -1,8 +1,8 @@
 {
-  "name": "mrprompt/silex-authorization-header-provider",
+  "name": "SilexFriends/Header",
   "description": "A simple Authorization Header Reader Provider to Silex Rest APIs",
   "type": "library",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Thiago Paes",
@@ -11,8 +11,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "MrPrompt\\Silex\\Header\\": "src/Header/",
-      "MrPrompt\\Tests\\Silex\\Header\\": "tests/Header/"
+      "SilexFriends\\Header\\": "src/Header/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "SilexFriends\\Tests\\Header\\": "tests/Header/"
     }
   },
   "require": {

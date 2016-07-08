@@ -1,13 +1,7 @@
 <?php
-/**
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- *
- * @license http://opensource.org/licenses/BSD-3-Clause BSD-3-Clause
- */
-namespace MrPrompt\Tests\Silex\Header;
+namespace SilexFriends\Tests\Header;
 
-use MrPrompt\Silex\Header\Header;
+use SilexFriends\Header\Header;
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
 
