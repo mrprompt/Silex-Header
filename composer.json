@@ -1,5 +1,5 @@
 {
-  "name": "silexfriends/header",
+  "name": "mrprompt/silex-authorization-header-provider",
   "description": "A simple Authorization Header Reader Provider to Silex Rest APIs",
   "type": "library",
   "license": "MIT",
@@ -11,12 +11,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "SilexFriends\\Header\\": "src/Header/"
+      "SilexFriends\\Header\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "SilexFriends\\Tests\\Header\\": "tests/Header/"
+      "SilexFriends\\Tests\\Header\\": "tests/"
     }
   },
   "require": {
